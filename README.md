@@ -1,5 +1,7 @@
 # Svelte Electron App + Svelteit Components
 
+<div align="center"><img width="100%" src="screenshot.png"></div>
+
 A Cross Platform Electron App using Svelte and Svelteit Components - go crazy, kids!
 
 # Usage:
